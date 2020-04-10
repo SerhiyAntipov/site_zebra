@@ -1,0 +1,26 @@
+[{
+    "idNumber": "1001",
+    "name": "Levis Jeans-071",
+    "img": "images/product_Levis%20Jeans-071.jpg",
+    "price": "61.99"
+}, {
+    "idNumber": "1002",
+    "name": "Levis Jeans-072",
+    "img": "images/product_Levis%20Jeans-072.jpg",
+    "price": "29.99"
+}, {
+    "idNumber": "1003",
+    "name": "Levis Jeans-073",
+    "img": "images/product_Levis%20Jeans-073.jpg",
+    "price": "40.00"
+}, {
+    "idNumber": "1004",
+    "name": "Levis Jeans-074",
+    "img": "images/product_Levis%20Jeans-074.jpg",
+    "price": "99.25"
+}, {
+    "idNumber": "1005",
+    "name": "Levis Jeans-075",
+    "img": "images/product_Levis%20Jeans-075.jpg",
+    "price": "18.66"
+}]

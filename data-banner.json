@@ -1,0 +1,29 @@
+[{
+    "idNumber": "1001",
+    "title": "Activitee",
+    "text": "T shirts from dribb ble...",
+    "price": "$25.00",
+    "img": "images/activitee_large.png",
+    "background": "#58dbd3"
+}, {
+    "idNumber": "1002",
+    "title": "Ampersan dwich Tee",
+    "text": "",
+    "price": "$18.00",
+    "img": "images/301_large.png",
+    "background": "#e4ce9a"
+}, {
+    "idNumber": "1003",
+    "title": "Bally Rog er Glow Tee",
+    "text": "dribb ble...",
+    "price": "$25.00",
+    "img": "images/bally_large.png",
+    "background": "#ffa7ce"
+}, {
+    "idNumber": "1004",
+    "title": "50%",
+    "text": "off",
+    "price": "lets go",
+    "img": "",
+    "background": "#f2ca66"
+}]
